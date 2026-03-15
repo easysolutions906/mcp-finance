@@ -1,6 +1,6 @@
 {
   "name": "@easysolutions906/mcp-finance",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "description": "MCP server bundling finance tools: currency conversion, exchange rates, historical rates, and currency listings via Frankfurter API",
   "type": "module",
   "bin": {
@@ -27,5 +27,9 @@
   "license": "MIT",
   "engines": {
     "node": ">=18"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/easysolutions906"
   }
 }
