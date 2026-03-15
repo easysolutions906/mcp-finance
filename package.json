@@ -1,0 +1,29 @@
+{
+  "name": "@easysolutions906/mcp-finance",
+  "version": "1.0.0",
+  "description": "MCP server bundling finance tools: currency conversion, exchange rates, historical rates, and currency listings via Frankfurter API",
+  "type": "module",
+  "bin": {
+    "mcp-finance": "./src/index.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "zod": "^3.24.0"
+  },
+  "keywords": [
+    "mcp",
+    "finance",
+    "currency",
+    "exchange-rates",
+    "frankfurter",
+    "model-context-protocol"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
