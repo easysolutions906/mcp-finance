@@ -1,6 +1,6 @@
 {
   "name": "@easysolutions906/mcp-finance",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "MCP server bundling finance tools: currency conversion, exchange rates, historical rates, and currency listings via Frankfurter API",
   "type": "module",
   "bin": {
